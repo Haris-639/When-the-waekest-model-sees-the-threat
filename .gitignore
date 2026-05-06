@@ -9,3 +9,7 @@ datasets/
 b3427ed8ad063a09_MOHANAD_A4706/
 *.parquet
 *.csv
+
+
+
+models/__pycache__/*
