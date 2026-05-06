@@ -1,0 +1,1 @@
+{"src": ["f1_n_fwd_pkts", "f2_n_bwd_pkts", "f3_sum_flx_dur", "f4_sum_pkts_size", "f5_std_pkt_size", "f6_tot_flx", "f7_n_dst_ports", "f8_proto_div", "f9_dur_var", "f10_n_dst_ip"], "dst": ["f1_n_fwd_pkts", "f2_n_bwd_pkts", "f3_sum_flx_dur", "f4_sum_pkts_size", "f5_std_pkt_size", "f6_tot_flx", "f7_n_dst_ports", "f8_proto_div", "f9_dur_var", "f10_n_src_ip"]}
